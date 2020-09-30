@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "ITSUmbria2020.OnlineGame.Library.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ITSUmbria2020.OnlineGame.Library.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ITSUmbria2020.OnlineGame.Library.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ITSUmbria2020.OnlineGame.Library.Models/1.0.0": {
+      "type": "project",
+      "path": "../ITSUmbria2020.OnlineGame.Library.Models/ITSUmbria2020.OnlineGame.Library.Models.csproj",
+      "msbuildProject": "../ITSUmbria2020.OnlineGame.Library.Models/ITSUmbria2020.OnlineGame.Library.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "ITSUmbria2020.OnlineGame.Library.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\39346\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\39346\\source\\repos\\ITSUmbriaGame\\Game1\\Game1.csproj",
+      "projectUniqueName": "C:\\Users\\39346\\source\\repos\\ITSGame2020\\ITSUmbriaGame\\Game1\\Game1.csproj",
       "projectName": "Game1",
-      "projectPath": "C:\\Users\\39346\\source\\repos\\ITSUmbriaGame\\Game1\\Game1.csproj",
+      "projectPath": "C:\\Users\\39346\\source\\repos\\ITSGame2020\\ITSUmbriaGame\\Game1\\Game1.csproj",
       "packagesPath": "C:\\Users\\39346\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\39346\\source\\repos\\ITSUmbriaGame\\Game1\\obj\\",
+      "outputPath": "C:\\Users\\39346\\source\\repos\\ITSGame2020\\ITSUmbriaGame\\Game1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\39346\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\39346\\source\\repos\\ITSGame2020\\ITSUmbriaGame\\ITSUmbria2020.OnlineGame.Library.Models\\ITSUmbria2020.OnlineGame.Library.Models.csproj": {
+              "projectPath": "C:\\Users\\39346\\source\\repos\\ITSGame2020\\ITSUmbriaGame\\ITSUmbria2020.OnlineGame.Library.Models\\ITSUmbria2020.OnlineGame.Library.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

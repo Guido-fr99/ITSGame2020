@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\39346\\source\\repos\\ITSUmbriaGame\\ITSUmbria2020.OnlineGame.Library.Models\\ITSUmbria2020.OnlineGame.Library.Models.csproj",
+      "projectUniqueName": "C:\\Users\\39346\\source\\repos\\ITSGame2020\\ITSUmbriaGame\\ITSUmbria2020.OnlineGame.Library.Models\\ITSUmbria2020.OnlineGame.Library.Models.csproj",
       "projectName": "ITSUmbria2020.OnlineGame.Library.Models",
-      "projectPath": "C:\\Users\\39346\\source\\repos\\ITSUmbriaGame\\ITSUmbria2020.OnlineGame.Library.Models\\ITSUmbria2020.OnlineGame.Library.Models.csproj",
+      "projectPath": "C:\\Users\\39346\\source\\repos\\ITSGame2020\\ITSUmbriaGame\\ITSUmbria2020.OnlineGame.Library.Models\\ITSUmbria2020.OnlineGame.Library.Models.csproj",
       "packagesPath": "C:\\Users\\39346\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\39346\\source\\repos\\ITSUmbriaGame\\ITSUmbria2020.OnlineGame.Library.Models\\obj\\",
+      "outputPath": "C:\\Users\\39346\\source\\repos\\ITSGame2020\\ITSUmbriaGame\\ITSUmbria2020.OnlineGame.Library.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\39346\\AppData\\Roaming\\NuGet\\NuGet.Config",
