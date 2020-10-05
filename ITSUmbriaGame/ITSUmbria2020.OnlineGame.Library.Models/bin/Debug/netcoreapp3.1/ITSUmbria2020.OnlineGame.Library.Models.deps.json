@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ITSUmbria2020.OnlineGame.Library.Models/1.0.0": {
+        "runtime": {
+          "ITSUmbria2020.OnlineGame.Library.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITSUmbria2020.OnlineGame.Library.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

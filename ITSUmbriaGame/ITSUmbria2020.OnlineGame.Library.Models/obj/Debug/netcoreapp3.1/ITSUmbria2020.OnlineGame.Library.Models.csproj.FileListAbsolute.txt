@@ -1,0 +1,9 @@
+C:\Users\39346\source\repos\ITSGame2020\ITSUmbriaGame\ITSUmbria2020.OnlineGame.Library.Models\bin\Debug\netcoreapp3.1\ITSUmbria2020.OnlineGame.Library.Models.deps.json
+C:\Users\39346\source\repos\ITSGame2020\ITSUmbriaGame\ITSUmbria2020.OnlineGame.Library.Models\bin\Debug\netcoreapp3.1\ITSUmbria2020.OnlineGame.Library.Models.dll
+C:\Users\39346\source\repos\ITSGame2020\ITSUmbriaGame\ITSUmbria2020.OnlineGame.Library.Models\bin\Debug\netcoreapp3.1\ITSUmbria2020.OnlineGame.Library.Models.pdb
+C:\Users\39346\source\repos\ITSGame2020\ITSUmbriaGame\ITSUmbria2020.OnlineGame.Library.Models\obj\Debug\netcoreapp3.1\ITSUmbria2020.OnlineGame.Library.Models.csprojAssemblyReference.cache
+C:\Users\39346\source\repos\ITSGame2020\ITSUmbriaGame\ITSUmbria2020.OnlineGame.Library.Models\obj\Debug\netcoreapp3.1\ITSUmbria2020.OnlineGame.Library.Models.AssemblyInfoInputs.cache
+C:\Users\39346\source\repos\ITSGame2020\ITSUmbriaGame\ITSUmbria2020.OnlineGame.Library.Models\obj\Debug\netcoreapp3.1\ITSUmbria2020.OnlineGame.Library.Models.AssemblyInfo.cs
+C:\Users\39346\source\repos\ITSGame2020\ITSUmbriaGame\ITSUmbria2020.OnlineGame.Library.Models\obj\Debug\netcoreapp3.1\ITSUmbria2020.OnlineGame.Library.Models.csproj.CoreCompileInputs.cache
+C:\Users\39346\source\repos\ITSGame2020\ITSUmbriaGame\ITSUmbria2020.OnlineGame.Library.Models\obj\Debug\netcoreapp3.1\ITSUmbria2020.OnlineGame.Library.Models.dll
+C:\Users\39346\source\repos\ITSGame2020\ITSUmbriaGame\ITSUmbria2020.OnlineGame.Library.Models\obj\Debug\netcoreapp3.1\ITSUmbria2020.OnlineGame.Library.Models.pdb
